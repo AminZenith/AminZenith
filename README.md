@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://fakeimg.pl/1200x250/4b6cb7/ffffff?text=Amin+Zenith&font=bebas" alt="Amin Zenith Banner" />
+  <img src="https://placehold.co/1200x250/4b6cb7/ffffff?text=Amin+Zenith&font=roboto" alt="Amin Zenith Banner" />
 </p>
 
 <h1 align="center">Amin Zenith</h1>
