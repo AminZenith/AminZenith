@@ -1,9 +1,11 @@
-<h1 align="center">
-  Amin Zenith  
-  <br/>
-  <span style="font-size:18px;">Front-end Developer | React & Next.js Specialist | UI/UX Enthusiast</span>
-</h1>
-
+<div align="center" style="background: linear-gradient(90deg, #4b6cb7, #182848); padding: 25px; border-radius: 12px;">
+  <h1 style="color: white; font-size: 40px; margin: 0;">
+    Amin Zenith
+  </h1>
+  <p style="color: #e0e0e0; font-size: 18px; margin-top: 10px;">
+    Front-end Developer | React & Next.js Specialist | UI/UX Enthusiast
+  </p>
+</div>
 ---
 
 ## 👨‍💻 About Me
